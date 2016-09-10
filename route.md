@@ -40,3 +40,7 @@ http://blog.csdn.net/lengyuhong/article/details/6022053
 
 http://blog.sciencenet.cn/blog-713101-797384.html
 
+## [R语言新手入门-R语言和RStudio的安装](http://r.rzaixian.com/%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BB%8B%E7%BB%8D/how-to-install-R-and-Rstudio-sunlu.html)
+
+## [iptables防火墙原理详解](http://seanlook.com/2014/02/23/iptables-understand/)
+
